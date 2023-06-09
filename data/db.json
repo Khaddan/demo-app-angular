@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer",
+      "price": 5600,
+      "checked": true
+    },
+    {
+      "id": 2,
+      "name": "Phone",
+      "price": 3400,
+      "checked": false
+    },
+    {
+      "id": 4,
+      "name": "MacBook",
+      "price": 16000,
+      "checked": true
+    },
+    {
+      "name": "SAMSUNG TV",
+      "price": "7500",
+      "checked": true,
+      "id": 5
+    },
+    {
+      "name": "SAMSUNG TV",
+      "price": "7500",
+      "checked": true,
+      "id": 6
+    },
+    {
+      "name": "printer",
+      "price": "600",
+      "checked": false,
+      "id": 7
+    }
+  ]
+}
