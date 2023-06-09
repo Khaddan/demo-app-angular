@@ -4,25 +4,19 @@
       "id": 1,
       "name": "Computer",
       "price": 5600,
-      "checked": true
+      "checked": false
     },
     {
       "id": 2,
       "name": "Phone",
       "price": 3400,
-      "checked": false
+      "checked": true
     },
     {
       "id": 4,
       "name": "MacBook",
       "price": 16000,
-      "checked": true
-    },
-    {
-      "name": "SAMSUNG TV",
-      "price": "7500",
-      "checked": true,
-      "id": 5
+      "checked": false
     },
     {
       "name": "SAMSUNG TV",
@@ -35,6 +29,12 @@
       "price": "600",
       "checked": false,
       "id": 7
+    },
+    {
+      "name": "Tablette",
+      "price": "2000",
+      "checked": false,
+      "id": 8
     }
   ]
 }
